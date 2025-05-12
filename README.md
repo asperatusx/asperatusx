@@ -9,5 +9,9 @@ I'm a Full Stack Developer focused on building modern, user-friendly web applica
 </p>
 
 ### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/alang6/)
+<p>
+  <a href="https://www.linkedin.com/in/alang6/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
